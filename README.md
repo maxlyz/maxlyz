@@ -1,17 +1,13 @@
-<div align="center">
+# Max Angkasa 🚀
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Max%20Angkasa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling" width="100%"/>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Max%20Angkasa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Max+%F0%9F%91%8B;Full+Stack+Developer;Building+things+that+actually+work+%F0%9F%94%A5;Open+Source+%26+AI+Enthusiast+%F0%9F%A4%96;Fueled+by+food+%2B+no+sunlight+%F0%9F%8D%9C%F0%9F%8C%99)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Max+👋%3BFull+Stack+Developer%3BBuilding+things+that+actually+work+🔥%3BOpen+Source+%26+AI+Enthusiast+🤖%3BFueled+by+food+and+no+sunlight)
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=maxlyz&label=Profile%20views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/maxlyz?label=Followers&style=for-the-badge&color=a371f7&labelColor=0d1117" alt="GitHub Followers"/>
-
-</div>
+<!-- Visitor Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=maxlyz&label=Profile%20views&color=6e40c9&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/maxlyz?label=Followers&style=for-the-badge&color=a371f7&labelColor=0d1117)
 
 ---
 
