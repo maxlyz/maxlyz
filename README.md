@@ -13,34 +13,20 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const maxAngkasa = {
-  name:       "Max Angkasa",
-  username:   "maxlyz",
-  location:   "Jakarta, Indonesia 🇮🇩",
-  role:       ["Full Stack Developer", "Software Engineer", "Open Source Enthusiast"],
+```bash
+max@angkasa:~$ neofetch --user maxlyz
+```
 
-  currentWork: [
-    "🌐 Building a multi-tenant SaaS platform with Next.js & Node.js",
-    "🛠️  Developing an open-source CLI toolkit for developer automation",
-    "⚡ Optimizing database queries & system response times",
-  ],
-
-  learning:   [
-    "🧠 Exploring cloud-native architectures & Kubernetes",
-    "⚙️  Optimizing containerization and CI/CD automation pipelines",
-    "🔗 Studying advanced system design patterns & microservices",
-  ],
-
-  funFacts: [
-    "🍜 Fueled entirely by food — all kinds, no exceptions",
-    "🏠 Never leaves home (why would I? My setup is right here)",
-    "🌙 Productive hours: 11 PM – 4 AM",
-    "💻 Writes clean code, drinks strong coffee",
-  ],
-
-  contactMe: "discord.gg/HMMYNPEXGY",
-};
+```text
+       .---.         max@angkasa
+      /     \        -----------
+      \  @ @ /       OS: Jakarta, Indonesia 🇮🇩
+       '---'         Role: Full Stack Developer | Software Engineer
+     /|     |\       Focus: Cloud-Native, Systems & Clean Code
+    / |     | \      Current: Building NexPanel SaaS & devflow CLI
+   /  |_____|  \     Fun Fact: 100% indoor enthusiast (Never leaves home) 🏠
+      |     |        Fuel: Powered entirely by food 🍜
+      |     |        Vibe: Code by day, debug by night
 ```
 
 ---
