@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Max%20Angkasa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Max+%F0%9F%91%8B;Full+Stack+Developer;Building+things+that+actually+work+%F0%9F%94%A5;Open+Source+%26+AI+Enthusiast+%F0%9F%A4%96;Fueled+by+food+%2B+no+sunlight+%F0%9F%8D%9C%F0%9F%8C%99" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Max+%F0%9F%91%8B;Full+Stack+Developer;Building+things+that+actually+work+%F0%9F%94%A5;Open+Source+%26+AI+Enthusiast+%F0%9F%A4%96;Fueled+by+food+%2B+no+sunlight+%F0%9F%8D%9C%F0%9F%8C%99)](https://git.io/typing-svg)
 
 <!-- Visitor Badge -->
 <img src="https://komarev.com/ghpvc/?username=maxlyz&label=Profile%20views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
@@ -87,12 +87,12 @@ const maxAngkasa = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlyz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlyz&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlyz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxlyz&theme=midnight-purple&hide_border=true&background=0d1117&ring=a371f7&fire=ff6b35&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=maxlyz&theme=midnight-purple&hide_border=true&background=0D1117&ring=a371f7&fire=ff6b35&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -153,10 +153,10 @@ const maxAngkasa = {
 
 ---
 
-## 🎵 Vibes While Coding
+## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=maxlyz&unique=true" alt="Spotify Recently Played" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxlyz&bg_color=0d1117&color=a371f7&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
