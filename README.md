@@ -4,7 +4,7 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Max%20Angkasa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descColor=c9b1ff&animation=twinkling)
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Max+👋%3BFull+Stack+Developer%3BBuilding+things+that+actually+work+🔥%3BOpen+Source+%26+AI+Enthusiast+🤖%3BFueled+by+food+and+no+sunlight)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Max;Full+Stack+Developer;Building+things+that+work;Fueled+by+food+and+no+sunlight)
 
 <!-- Visitor Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=maxlyz&label=Profile%20views&color=6e40c9&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/maxlyz?label=Followers&style=for-the-badge&color=a371f7&labelColor=0d1117)
@@ -23,20 +23,20 @@ const maxAngkasa = {
   currentWork: [
     "🌐 Building a multi-tenant SaaS platform with Next.js & Node.js",
     "🛠️  Developing an open-source CLI toolkit for developer automation",
-    "🤖 Integrating AI features into production-ready web applications",
+    "⚡ Optimizing database queries & system response times",
   ],
 
   learning:   [
-    "🧠 Keeping up with the latest AI/LLM advancements",
-    "⚙️  Integrating AI tools into real-world development workflows",
-    "🔗 Exploring LangChain, OpenAI APIs & local LLM deployment",
+    "🧠 Exploring cloud-native architectures & Kubernetes",
+    "⚙️  Optimizing containerization and CI/CD automation pipelines",
+    "🔗 Studying advanced system design patterns & microservices",
   ],
 
   funFacts: [
     "🍜 Fueled entirely by food — all kinds, no exceptions",
     "🏠 Never leaves home (why would I? My setup is right here)",
     "🌙 Productive hours: 11 PM – 4 AM",
-    "💬 Talks to AI more than real people... and it's going great",
+    "💻 Writes clean code, drinks strong coffee",
   ],
 
   contactMe: "discord.gg/HMMYNPEXGY",
@@ -115,9 +115,9 @@ const maxAngkasa = {
     <td>A developer productivity toolkit for automating repetitive workflows — scaffolding, deployment hooks, and git automation in one CLI</td>
   </tr>
   <tr>
-    <td>🤖</td>
-    <td><b>AI Workflow Toolkit</b></td>
-    <td>Personal toolkit to supercharge dev productivity using local LLMs, automation scripts, and AI-assisted code review</td>
+    <td>⚙️</td>
+    <td><b>System Setup & Automations</b></td>
+    <td>Personal collection of bash/powershell scripts to automate clean installations, developer environments, and routine configurations</td>
   </tr>
 </table>
 
@@ -126,13 +126,13 @@ const maxAngkasa = {
 ## 🧠 Currently Learning
 
 <div align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML_Trends-FF6B35?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
-> *"Staying ahead of AI isn't optional anymore — it's the new survival skill."*
+> *"Software engineering is a never-ending journey of learning and building."*
 
 ---
 
