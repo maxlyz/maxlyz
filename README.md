@@ -22,7 +22,7 @@ max@angkasa:~$ neofetch --user maxlyz
       /     \        -----------
       \  @ @ /       OS: Jakarta, Indonesia 🇮🇩
        '---'         Role: Full Stack Developer | Software Engineer
-     /|     |\       Focus: Cloud-Native, Systems & Clean Code
+     /|     |\       Focus: Cloud-Native, Web Apps & FiveM Scripting (Lua)
     / |     | \      Current: Building NexPanel SaaS & devflow CLI
    /  |_____|  \     Fun Fact: 100% indoor enthusiast (Never leaves home) 🏠
       |     |        Fuel: Powered entirely by food 🍜
@@ -46,10 +46,12 @@ max@angkasa:~$ neofetch --user maxlyz
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </div>
 
-### ⚙️ Backend
+### ⚙️ Backend & Scripting
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/FiveM-F44336?style=for-the-badge&logo=rockstargames&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -101,9 +103,9 @@ max@angkasa:~$ neofetch --user maxlyz
     <td>A developer productivity toolkit for automating repetitive workflows — scaffolding, deployment hooks, and git automation in one CLI</td>
   </tr>
   <tr>
-    <td>⚙️</td>
-    <td><b>System Setup & Automations</b></td>
-    <td>Personal collection of bash/powershell scripts to automate clean installations, developer environments, and routine configurations</td>
+    <td>🎮</td>
+    <td><b>FiveM Resource Scripts</b></td>
+    <td>A collection of custom Lua/JS resources for QBCore framework, focused on performance and low resource monitor (resmon) usage</td>
   </tr>
 </table>
 
